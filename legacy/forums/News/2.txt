@@ -1,0 +1,9 @@
+Progress Update 2
+Cory Estock
+03-14-2016 06:51pm EST
+Cory Estock
+03-14-2016 06:51pm EST
+0
+0
+Transitioning the game over to C++ has been slow because of school, but I got the core of the game engine I wrote re-codded. All I have to do is rewrite the code for Sarah and Collision which is almost copy and paste but with a few changes. Other than that, I didn't do too much with the game. However, I did draw a portrait of Sarah to put next to the health bar when I get to that point.
+Also, I began work on another game with a couple people from my League of Legends team. We plan on making an online turn based RPG. I'll be sure to provide more information on it when we actually get somewhere with it.

@@ -1,0 +1,40 @@
+What did you change/enhance from part 1?
+
+I made four big changes
+-First I added a My Account element to the navigator when you are logged in. It allows you to change your password 
+and email (Even though email doesn't do anything). This change required me to add Javascript to all of my views. 
+-I added a show more button to the home page that allows for more news posts to display on the page until there are 
+no more posts to display. Temporarily, it displays one at a time for grading purposes. This change mas primarily 
+Javascript on the home page.
+-I added a way to reply to and delete threads, both on the file systems and database. This was part of final change.
+-The last change I made was a comment section for each thread, and a ability to reply to other comments and threads. 
+The comment section works with file system and database, but you must be logged in to post a comment. This change was 
+with a lot of PHP and Javascript in the threadviews page as well as a couple of external PHP scripts. Also, I added a 
+decent bit of CSS.
+
+
+
+If there was a third part to the class project, what would you like to implement?
+
+I would add more to the My Account element of the website. I would add a profile picture setting as well as
+a inbox system to see who replied to your threads and comments. Also, I would a nice image with the title of 
+the game to the home page rather than using text. Lastly, I would improve security and add spam prevenetion 
+(captcha). Other than that I am not really sure what I would add.
+
+
+
+What did you learn between part 1 and part 2?
+
+Obviously, I learned Javascript, but more importantly, I learned what Javascrit can do that PHP can't do, or 
+that Javascript does better than PHP. Likewise, I learned what PHP can do that Javascript can't, and what PHP 
+does better. Also, my understanding of MySQL improved a bit as well.
+
+
+
+What did you like about this project? How could it have been better?
+
+I really liked the freedom that we had with the project. That made the project much more enjoyable all together. 
+Also with the freedom to do what we want, this caused me to not know how to do a lot of things I wanted to do, so 
+as a result I had to look a lot of stuff up. This was not a bad thing, but rather allowed me to learn more then I 
+would have in class. For the project to better however, I am not entirely sure. The project was exactly how I wanted 
+it to be.
